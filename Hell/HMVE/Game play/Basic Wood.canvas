@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"e8b851c80be5d377","type":"text","text":"Tree","x":-240,"y":-160,"width":180,"height":180,"color":"1"},
+		{"id":"669705916890887e","type":"text","text":"Cutter/Player","x":20,"y":-160,"width":180,"height":180,"color":"6"},
+		{"id":"eeb3103cb74a5ff4","type":"text","text":"","x":20,"y":-540,"width":180,"height":180},
+		{"id":"621afcdce4095cea","type":"text","text":"Logs","x":280,"y":-160,"width":180,"height":180,"color":"5"},
+		{"id":"d0ec7a74d781883e","type":"text","text":"Saw","x":280,"y":80,"width":180,"height":180,"color":"6"},
+		{"id":"f99df1d38d756e59","type":"text","text":"Planks","x":20,"y":80,"width":180,"height":180,"color":"5"},
+		{"id":"e7ee9cf05952377f","type":"text","text":"Player","x":540,"y":-160,"width":180,"height":180,"color":"6"},
+		{"id":"f84c411f6e32c74a","type":"text","text":"Rough Planks","x":540,"y":80,"width":180,"height":180,"color":"5"},
+		{"id":"5322ec81585d5dbb","type":"file","file":"Game play/Wooden Crates.canvas","x":540,"y":-400,"width":180,"height":180},
+		{"id":"5032b429d1e48fad","type":"text","text":"Rough Sticks","x":800,"y":-160,"width":180,"height":180,"color":"5"},
+		{"id":"85ab18fc01dc9090","type":"text","text":"Sticks","x":20,"y":320,"width":180,"height":180,"color":"5"}
+	],
+	"edges":[
+		{"id":"c2d61eeb1094f73a","fromNode":"e8b851c80be5d377","fromSide":"right","toNode":"669705916890887e","toSide":"left","label":"1"},
+		{"id":"e9316ef91f1b052d","fromNode":"669705916890887e","fromSide":"right","toNode":"621afcdce4095cea","toSide":"left"},
+		{"id":"3dda0a5643a26358","fromNode":"621afcdce4095cea","fromSide":"bottom","toNode":"d0ec7a74d781883e","toSide":"top","label":"0.25"},
+		{"id":"c03f57544b7d16fd","fromNode":"d0ec7a74d781883e","fromSide":"left","toNode":"f99df1d38d756e59","toSide":"right","label":"0.25"},
+		{"id":"cd55bfbc40ffbf39","fromNode":"621afcdce4095cea","fromSide":"right","toNode":"e7ee9cf05952377f","toSide":"left","label":"0.5"},
+		{"id":"0726b0bd59d636ea","fromNode":"e7ee9cf05952377f","fromSide":"bottom","toNode":"f84c411f6e32c74a","toSide":"top","label":"0.5"},
+		{"id":"a75d23eebfaeb6d2","fromNode":"e7ee9cf05952377f","fromSide":"right","toNode":"5032b429d1e48fad","toSide":"left","label":"0.1"},
+		{"id":"e014c5a121415c76","fromNode":"f99df1d38d756e59","fromSide":"bottom","toNode":"85ab18fc01dc9090","toSide":"top","label":"0.1"}
+	]
+}

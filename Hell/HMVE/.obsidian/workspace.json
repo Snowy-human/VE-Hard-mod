@@ -15,51 +15,16 @@
               "state": {
                 "file": "Game play/Basic Iron.canvas",
                 "viewState": {
-                  "x": -607.5258759185589,
-                  "y": -269.83375805570427,
-                  "zoom": -0.8
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Basic Iron"
-            }
-          },
-          {
-            "id": "67d3baa60c5ffe66",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Game play/Basic Iron.canvas",
-                "viewState": {
-                  "x": -560,
-                  "y": -810,
-                  "zoom": -1.3757287353163048
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Basic Iron"
-            }
-          },
-          {
-            "id": "9aa6194cf11a4de3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Game play/Basic Iron.canvas",
-                "viewState": {
-                  "x": -185.24429236883032,
-                  "y": -345.89944421507016,
-                  "zoom": -1.0757287353163048
+                  "x": -243.00942415943297,
+                  "y": -411.7817493179087,
+                  "zoom": -0.7757287353163047
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Basic Iron"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,16 +186,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "9aa6194cf11a4de3",
+  "active": "2e712bb990002a9b",
   "lastOpenFiles": [
-    "Guides/Number Guide.md",
-    "Guides/Colour Guide.md",
+    "Game play/Basic Wood.canvas",
+    "Game play/Impure Frames.canvas",
+    "Game play/Wooden Crates.canvas",
     "Game play/Basic Iron.canvas",
     "Game play/Basic Steel.canvas",
-    "Game play/Impure Frames.canvas",
+    "Pasted image 20260319235912.png",
+    "Guides/Colour Guide.md",
+    "Guides/Number Guide.md",
     "Guides",
     "Game play",
-    "Pasted image 20260319235912.png",
     "Impure.md"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Basic Iron.canvas",
+                "file": "Game play/Basic Iron.canvas",
                 "viewState": {
                   "x": -607.5258759185589,
                   "y": -269.83375805570427,
@@ -30,7 +30,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Basic Iron.canvas",
+                "file": "Game play/Basic Iron.canvas",
                 "viewState": {
                   "x": -560,
                   "y": -810,
@@ -40,9 +40,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Basic Iron"
             }
+          },
+          {
+            "id": "9aa6194cf11a4de3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Game play/Basic Iron.canvas",
+                "viewState": {
+                  "x": -185.24429236883032,
+                  "y": -345.89944421507016,
+                  "zoom": -1.0757287353163048
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Basic Iron"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Iron.canvas",
+                "file": "Game play/Basic Iron.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Iron.canvas",
+                "file": "Game play/Basic Iron.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Iron.canvas",
+                "file": "Game play/Basic Iron.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,11 +221,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "67d3baa60c5ffe66",
+  "active": "9aa6194cf11a4de3",
   "lastOpenFiles": [
-    "Basic Steel.canvas",
-    "Basic Iron.canvas",
+    "Guides/Number Guide.md",
+    "Guides/Colour Guide.md",
+    "Game play/Basic Iron.canvas",
+    "Game play/Basic Steel.canvas",
+    "Game play/Impure Frames.canvas",
+    "Guides",
+    "Game play",
     "Pasted image 20260319235912.png",
-    "Colour Guide.md"
+    "Impure.md"
   ]
 }

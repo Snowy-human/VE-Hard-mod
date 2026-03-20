@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"06a8e9f366fa3765","type":"text","text":"Impure Iron\nBracket","x":-800,"y":-540,"width":180,"height":180,"color":"5"},
+		{"id":"b81e0a076d302bb6","type":"text","text":"Impure Iron\nFlat Bar","x":-800,"y":-360,"width":180,"height":180,"color":"5"},
+		{"id":"b7a921d6df30e6d4","type":"text","text":"Impure Iron\nNut","x":-440,"y":-720,"width":180,"height":180,"color":"5"},
+		{"id":"e1d82f1c379d3daa","type":"text","text":"Impure Iron\nWashers","x":-620,"y":-720,"width":180,"height":180,"color":"5"},
+		{"id":"49fa5dad792e44ef","type":"text","text":"Impure Iron\nFrame Part","x":-440,"y":-360,"width":180,"height":180,"color":"1"},
+		{"id":"fb1778450a3f3cbb","type":"text","text":"Impure Iron\nFrame Part","x":-140,"y":-360,"width":180,"height":180,"color":"4"}
+	],
+	"edges":[
+		{"id":"46f70b4cea726f82","fromNode":"e1d82f1c379d3daa","fromSide":"bottom","toNode":"49fa5dad792e44ef","toSide":"top","label":"12"},
+		{"id":"c9a0a2e97c158bda","fromNode":"b7a921d6df30e6d4","fromSide":"bottom","toNode":"49fa5dad792e44ef","toSide":"top","label":"12"},
+		{"id":"fa0789b51938f55c","fromNode":"06a8e9f366fa3765","fromSide":"right","toNode":"49fa5dad792e44ef","toSide":"left","label":"4"},
+		{"id":"76adeff1da1be44e","fromNode":"b81e0a076d302bb6","fromSide":"right","toNode":"49fa5dad792e44ef","toSide":"left","label":"4"},
+		{"id":"426470a839f243f0","fromNode":"49fa5dad792e44ef","fromSide":"right","toNode":"fb1778450a3f3cbb","toSide":"left","label":"6"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"fc44dd3070b3edf4","type":"text","text":"Iron\nDust","x":-440,"y":-200,"width":180,"height":180},
+		{"id":"764c0c4318acd733","type":"text","text":"Infusers","x":-440,"y":20,"width":180,"height":180},
+		{"id":"2f142527c975ce77","type":"text","text":"Steel\nDust","x":-440,"y":240,"width":180,"height":180},
+		{"id":"4b3f53dd75d8a5e0","type":"text","text":"Blast Furnaces","x":-440,"y":460,"width":180,"height":180},
+		{"id":"a478c079d4c0d409","type":"text","text":"Infusers","x":-220,"y":240,"width":180,"height":180},
+		{"id":"243413663884f3ba","type":"text","text":"Stainless Steel\nDust","x":0,"y":240,"width":180,"height":180}
+	],
+	"edges":[
+		{"id":"7e9e6c3713d44026","fromNode":"fc44dd3070b3edf4","fromSide":"bottom","toNode":"764c0c4318acd733","toSide":"top"},
+		{"id":"4246c54979f10e3f","fromNode":"764c0c4318acd733","fromSide":"bottom","toNode":"2f142527c975ce77","toSide":"top"},
+		{"id":"93920ef8ebd80a7f","fromNode":"2f142527c975ce77","fromSide":"bottom","toNode":"4b3f53dd75d8a5e0","toSide":"top"},
+		{"id":"542bc4b3b16eb666","fromNode":"2f142527c975ce77","fromSide":"right","toNode":"a478c079d4c0d409","toSide":"left"},
+		{"id":"07e1f070a7670143","fromNode":"a478c079d4c0d409","fromSide":"right","toNode":"243413663884f3ba","toSide":"left"}
+	]
+}
